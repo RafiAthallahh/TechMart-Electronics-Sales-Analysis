@@ -1,5 +1,7 @@
 # TechMart Electronics Sales Analysis
 
+<img width="853" height="477" alt="image" src="https://github.com/user-attachments/assets/da1b27d5-f7c3-4945-85cd-410dd22c014c" />
+
 This is portfolio project presents a comprehensive sales analysis conducted for TechMart Electronics, a large electronics retailer facing profitability challenges due to high product return rates and strategic inefficiencies. Using SQL for EDA and analysis, as well as Power BI for interactive visualisation, this project aims to identify the root causes of the high Return Rate (24.80%) and evaluate the effectiveness of promotions and regional performance. The main objective of this project is to transform raw data into actionable strategic recommendations to help management (Ms. Anita) mitigate profit leakage and drive efficient growth.
 
 ## Key Takeway 
